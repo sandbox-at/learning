@@ -1,0 +1,35 @@
+
+body{
+    background-color:#F6F7F9 ;
+    }
+.menu{
+    background-color: #3B5998;
+    color: #D5DBE6;
+      
+        
+}
+  .footer-text-content{
+      background-color: #3B5998;
+      color: #D5DBE6;
+         
+     }
+.main{
+    background-color:  #FFFFFF;
+    float: none;
+    text-align: center;
+}
+ ul{
+    list-style-type: none;
+     text-align: center;
+     text-decoration:underline;
+    text-transform: uppercase ;
+     
+}
+li{
+    display: inline-block;
+    border: none;
+    
+}
+    
+    
+   
