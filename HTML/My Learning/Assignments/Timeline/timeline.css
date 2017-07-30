@@ -5,13 +5,13 @@ body{
 .menu{
     background-color: #3B5998;
     color: #D5DBE6;
-      
-        
+    word-spacing: 50px;  
+   display: inline-grid;
 }
   .footer-text-content{
       background-color: #3B5998;
       color: #D5DBE6;
-         
+        word-spacing: 50px; 
      }
 .main{
     background-color:  #FFFFFF;
@@ -26,10 +26,10 @@ body{
      
 }
 li{
-    display: inline-block;
     border: none;
     
 }
+
     
     
    
